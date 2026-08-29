@@ -78,7 +78,7 @@ German (de), French (fr) and Korean (ko).
 %{_qt6_plugindir}/kwin/effects/configs/kwin_better_blur_dx_config.so
 
 %changelog
-* Sat Aug 29 2026 Better Blur DX Packaging <i18n@example.invalid> - 2.5.1-1
+* Sat Aug 29 2026 Better Blur DX Packaging <13278297951@sina.cn> - 2.5.1-1
 - Initial RPM release
 - Add ki18n/gettext based multi-language support
 - Ship translations for zh_CN, zh_TW, ja, de, fr and ko
